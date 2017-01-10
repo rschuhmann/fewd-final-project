@@ -91,7 +91,7 @@ header nav a {
 }
 
 #slider {
-	margin: 80px;
+	margin: 50px;
 	background-color: transparent;
 }
 
@@ -109,6 +109,9 @@ header nav a {
 #resume-title {
 	padding: 10px;
 	margin: 20px;
+	background-color: black;
+	color: white;
+	max-width: 800px;
 }
 
 .job {

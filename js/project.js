@@ -10,7 +10,8 @@ $( window ).resize(function() {
 
 var slider = new IdealImageSlider.Slider({
     selector: '#slider',
-    height: 400,
+    height: 600,
     interval: 4000
 });
+slider.addCaptions();
 slider.start();
